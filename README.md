@@ -1,2 +1,2 @@
-# carnaval-2019
- Site básico feito em Javascript, HTML e CSS. Um dos primeiros que eu criei em 2019 - 2020.
+# Carnaval 2019
+ Site básico feito em Javascript, HTML e CSS. Um dos primeiros que eu criei em 2019 - 2020. Nessa época eu não tinha conhecimentos avançados em JQuery, por isso as trocas de páginas na DOM são feitas atráves de strings com os elementos dentro. (O que claramente não é otimizado, o jeito certo de fazer isso seria criar arquivos HTML separados e dar um $.load() para carregar eles dentro da página principal)
